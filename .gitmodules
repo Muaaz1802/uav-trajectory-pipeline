@@ -1,0 +1,3 @@
+[submodule "SIDD"]
+	path = SIDD
+	url = git@github.com:Dang-zy/SIDD.git
